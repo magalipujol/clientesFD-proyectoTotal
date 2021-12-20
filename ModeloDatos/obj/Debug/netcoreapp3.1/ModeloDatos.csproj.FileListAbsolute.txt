@@ -1,0 +1,10 @@
+C:\Users\magalip\source\repos\problema-clientes-FD-szicom\problema-clientes-FD-szicom\ModeloDatos\bin\Debug\netcoreapp3.1\ModeloDatos.deps.json
+C:\Users\magalip\source\repos\problema-clientes-FD-szicom\problema-clientes-FD-szicom\ModeloDatos\bin\Debug\netcoreapp3.1\ModeloDatos.dll
+C:\Users\magalip\source\repos\problema-clientes-FD-szicom\problema-clientes-FD-szicom\ModeloDatos\bin\Debug\netcoreapp3.1\ModeloDatos.pdb
+C:\Users\magalip\source\repos\problema-clientes-FD-szicom\problema-clientes-FD-szicom\ModeloDatos\obj\Debug\netcoreapp3.1\ModeloDatos.csproj.AssemblyReference.cache
+C:\Users\magalip\source\repos\problema-clientes-FD-szicom\problema-clientes-FD-szicom\ModeloDatos\obj\Debug\netcoreapp3.1\ModeloDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magalip\source\repos\problema-clientes-FD-szicom\problema-clientes-FD-szicom\ModeloDatos\obj\Debug\netcoreapp3.1\ModeloDatos.AssemblyInfoInputs.cache
+C:\Users\magalip\source\repos\problema-clientes-FD-szicom\problema-clientes-FD-szicom\ModeloDatos\obj\Debug\netcoreapp3.1\ModeloDatos.AssemblyInfo.cs
+C:\Users\magalip\source\repos\problema-clientes-FD-szicom\problema-clientes-FD-szicom\ModeloDatos\obj\Debug\netcoreapp3.1\ModeloDatos.csproj.CoreCompileInputs.cache
+C:\Users\magalip\source\repos\problema-clientes-FD-szicom\problema-clientes-FD-szicom\ModeloDatos\obj\Debug\netcoreapp3.1\ModeloDatos.dll
+C:\Users\magalip\source\repos\problema-clientes-FD-szicom\problema-clientes-FD-szicom\ModeloDatos\obj\Debug\netcoreapp3.1\ModeloDatos.pdb

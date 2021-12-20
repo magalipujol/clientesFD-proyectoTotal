@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Importador\Importador.csproj" />
+    <ProjectReference Include="..\problema-clientes-FD-szicom\problema-clientes-FD-szicom\ModeloDatos\ModeloDatos.csproj" />
+  </ItemGroup>
+
+</Project>

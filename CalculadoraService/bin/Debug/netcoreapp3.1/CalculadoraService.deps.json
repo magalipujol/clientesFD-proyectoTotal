@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CalculadoraService/1.0.0": {
+        "dependencies": {
+          "Importador": "1.0.0",
+          "ModeloDatos": "1.0.0"
+        },
+        "runtime": {
+          "CalculadoraService.dll": {}
+        }
+      },
+      "Importador/1.0.0": {
+        "dependencies": {
+          "ModeloDatos": "1.0.0"
+        },
+        "runtime": {
+          "Importador.dll": {}
+        }
+      },
+      "ModeloDatos/1.0.0": {
+        "runtime": {
+          "ModeloDatos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculadoraService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Importador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ModeloDatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
